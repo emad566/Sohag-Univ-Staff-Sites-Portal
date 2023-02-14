@@ -1,0 +1,16 @@
+[12-Oct-2018 21:04:09 UTC] PHP Fatal error:  Uncaught Error: Class 'voku\Html2Text\Html2Text' not found in /home/staffsitessohagu/public_html/resources/views/stuff/subjects/show.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/staffsitessohagu/public_html/resources/views/stuff/subjects/show.blade.php on line 21
+[12-Oct-2018 21:04:09 UTC] PHP Fatal error:  Uncaught Error: Class 'voku\Html2Text\Html2Text' not found in /home/staffsitessohagu/public_html/resources/views/stuff/subjects/index.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/staffsitessohagu/public_html/resources/views/stuff/subjects/index.blade.php on line 21
+[12-Oct-2018 21:04:09 UTC] PHP Fatal error:  Uncaught Error: Class 'voku\Html2Text\Html2Text' not found in /home/staffsitessohagu/public_html/resources/views/stuff/subjects/edit.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/staffsitessohagu/public_html/resources/views/stuff/subjects/edit.blade.php on line 21
+[12-Oct-2018 21:04:09 UTC] PHP Fatal error:  Uncaught Error: Class 'voku\Html2Text\Html2Text' not found in /home/staffsitessohagu/public_html/resources/views/stuff/subjects/create.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/staffsitessohagu/public_html/resources/views/stuff/subjects/create.blade.php on line 21

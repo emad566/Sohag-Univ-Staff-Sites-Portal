@@ -1,0 +1,8 @@
+[12-Oct-2018 20:57:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function app() in /home/staffsitessohagu/public_html/resources/views/frontend/search.blade.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/staffsitessohagu/public_html/resources/views/frontend/search.blade.php on line 55
+[12-Oct-2018 21:03:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function app() in /home/staffsitessohagu/public_html/resources/views/frontend/search.blade.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/staffsitessohagu/public_html/resources/views/frontend/search.blade.php on line 55

@@ -1,0 +1,4 @@
+[15-Nov-2018 23:49:06 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/staffsitessohagu/public_html/app/Http/Controllers/FileController.php on line 8
+[15-Nov-2018 23:49:09 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/staffsitessohagu/public_html/app/Http/Controllers/SupplementController.php on line 12
+[15-Nov-2018 23:50:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/staffsitessohagu/public_html/app/Http/Controllers/AdvController.php on line 12
+[15-Nov-2018 23:50:06 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/staffsitessohagu/public_html/app/Http/Controllers/AnswerController.php on line 12

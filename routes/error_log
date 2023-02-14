@@ -1,0 +1,4 @@
+[13-Dec-2018 00:32:13 UTC] PHP Fatal error:  Class 'Route' not found in /home/staffsitessohagu/public_html/routes/api.php on line 16
+[13-Dec-2018 00:32:15 UTC] PHP Fatal error:  Class 'Broadcast' not found in /home/staffsitessohagu/public_html/routes/channels.php on line 14
+[13-Dec-2018 00:32:17 UTC] PHP Fatal error:  Class 'Artisan' not found in /home/staffsitessohagu/public_html/routes/console.php on line 16
+[13-Dec-2018 00:32:18 UTC] PHP Fatal error:  Class 'Route' not found in /home/staffsitessohagu/public_html/routes/web.php on line 23

@@ -1,0 +1,1 @@
+[15-Nov-2018 23:49:12 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/staffsitessohagu/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 8

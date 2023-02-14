@@ -1,0 +1,16 @@
+[12-Oct-2018 21:00:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/staffsitessohagu/public_html/resources/views/layouts/stuff.blade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/staffsitessohagu/public_html/resources/views/layouts/stuff.blade.php on line 3
+[12-Oct-2018 21:00:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\User' not found in /home/staffsitessohagu/public_html/resources/views/layouts/headfooter.blade.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/staffsitessohagu/public_html/resources/views/layouts/headfooter.blade.php on line 194
+[12-Oct-2018 21:00:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/staffsitessohagu/public_html/resources/views/layouts/frontend.blade.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/staffsitessohagu/public_html/resources/views/layouts/frontend.blade.php on line 47
+[12-Oct-2018 21:03:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/staffsitessohagu/public_html/resources/views/layouts/frontend.blade.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/staffsitessohagu/public_html/resources/views/layouts/frontend.blade.php on line 47

@@ -1,0 +1,1 @@
+[13-Dec-2018 00:31:10 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/staffsitessohagu/public_html/app/Console/Kernel.php on line 9
